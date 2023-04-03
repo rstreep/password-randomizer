@@ -1,5 +1,14 @@
 // Assignment code here
 
+function generatePassword() {
+  var passwordLength = prompt("Password Length"); 
+  console.log(passwordLength);
+  if(Number.isInteger(Number(passwordLength)) == true) {
+    console.log("It is an integer");
+  } else {
+    console.log("It is not an integer");
+  }
+}
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
