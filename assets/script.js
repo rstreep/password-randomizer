@@ -67,7 +67,6 @@ return password;
 
 }
 
-// Get references to the #generate element
 
 
 
