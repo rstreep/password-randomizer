@@ -1,12 +1,12 @@
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
 // Criteria Variables
-var passwordLength = ' '
+var passwordLength = ""
 var includeUppercase = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 var includeLowercase = 'abcdefghijklmnopqrstuvwxyz'
 var includeNumbers = '0123456789'
 var includeSymbols = '!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~'
-var chars = ' '
+var chars = ""
 // Write password to the #password input
 function writePassword() {
   var password = generatePassword();

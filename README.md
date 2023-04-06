@@ -7,19 +7,22 @@ My goal with this challenge was to deploy a site that provides users a way to cr
 ### Screenshots
 
 HTML:
-
+https://github.com/rstreep/password-randomizer/blob/main/assets/images/html.png?raw=true
 
 CSS:
-
+https://github.com/rstreep/password-randomizer/blob/main/assets/images/css1.png?raw=true
+https://github.com/rstreep/password-randomizer/blob/main/assets/images/css2.png?raw=true
+https://github.com/rstreep/password-randomizer/blob/main/assets/images/css3.png?raw=true
 
 Javascript:
-
+https://github.com/rstreep/password-randomizer/blob/main/assets/images/javascript1.png?raw=true
+https://github.com/rstreep/password-randomizer/blob/main/assets/images/javascript2.png?raw=true
 
 Application:
-
+https://github.com/rstreep/password-randomizer/blob/main/assets/images/application.png?raw=true
 
 #### Published Site
-
+https://rstreep.github.io/password-randomizer/
 
 #### Github
 https://github.com/rstreep/password-randomizer
