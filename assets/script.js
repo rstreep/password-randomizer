@@ -26,14 +26,14 @@ function generatePassword() {
     if (passwordLength >= 8 && passwordLength <= 128 && Number.isInteger(Number(passwordLength)) == true) {
       break;
     } else {
-      window.alert("incorrect value");
+      window.alert("Incorrect value");
     }
   }
   // variables for user criteria confirmation
-  var lowercaseVal = confirm('do you want lowercase?');
-  var uppercaseVal = confirm('do you want uppercase?');
-  var numbersVal = confirm('do you want numbers?');
-  var symbolsVal = confirm('do you want symbols?');
+  var lowercaseVal = confirm('Do you want lowercase?');
+  var uppercaseVal = confirm('Do you want uppercase?');
+  var numbersVal = confirm('Do you want numbers?');
+  var symbolsVal = confirm('Do you want symbols?');
 // validates lowercase criteria
   if (lowercaseVal == true) {
     chars += includeLowercase;
@@ -52,7 +52,8 @@ function generatePassword() {
 }
 // alerts user to select at least one criteria for password if they haven't selected any
     if (chars == "") {
-    window.alert('please enter at least one criteria');
+    window.alert("please enter at least one criteria");
+    break;
 }
 // Set Password variable
 var password = "";
