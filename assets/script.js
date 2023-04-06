@@ -53,7 +53,6 @@ function generatePassword() {
 // alerts user to select at least one criteria for password if they haven't selected any
     if (chars == "") {
     window.alert("please enter at least one criteria");
-    break;
 }
 // Set Password variable
 var password = "";
