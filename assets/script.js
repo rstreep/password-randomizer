@@ -29,6 +29,8 @@ function generatePassword() {
       window.alert("Incorrect value");
     }
   }
+
+  chars = "";
   // variables for user criteria confirmation
   var lowercaseVal = confirm('Do you want lowercase?');
   var uppercaseVal = confirm('Do you want uppercase?');
