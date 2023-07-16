@@ -22,7 +22,8 @@ https://github.com/rstreep/password-randomizer/blob/main/assets/images/css3.png?
 
 ### Javascript:
 
-
+https://github.com/rstreep/password-randomizer/blob/main/assets/images/js1.png?raw=true
+https://github.com/rstreep/password-randomizer/blob/main/assets/images/js2.png?raw=true
 
 ## Published Site
 https://rstreep.github.io/password-randomizer/
